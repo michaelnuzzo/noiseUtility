@@ -1,16 +1,14 @@
 <div  align="center">
 
-<img width="400px" src="docs/imgs/logo.png">
+# Reverser
 
 </div>
 
 ## Overview
 
-The CompressOScope is an audio app and plugin which allows you to calculate and visualize a [dynamic range compressor](https://en.wikipedia.org/wiki/Dynamic_range_compression)'s gain in real time. To use the CompressOScope, set up a stereo recording track and route the input of the compressor you want to measure on to channel 1 (L) and the output to channel 2 (R). If there is an offset or delay between the input and output, make sure to correct for this as the CompressOScope works best with aligned input/output signals.
+noiseUtility is a simple audio plugin that adds series noise into the signal path. It can be useful for testing other plugins in a DAW environment. 
 
 <div  align="center">
-
-<img width="600px" src="docs/imgs/screenshot.png">
 
 </div>
 
@@ -18,7 +16,7 @@ The CompressOScope is an audio app and plugin which allows you to calculate and 
 
 ## Install
 
-The plugin itself can be downloaded from the [Releases page](https://github.com/michaelnuzzo/CompressOScope/releases) in this repository. Once downloaded, the plugin can be installed by simply dragging the file into your plugins folder. 
+The plugin itself can be downloaded from the [Releases page](https://github.com/michaelnuzzo/noiseUtility/releases) in this repository. Once downloaded, the plugin can be installed by simply dragging the file into your plugins folder. 
 
 ```
 VST3:
